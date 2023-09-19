@@ -3,7 +3,7 @@ body{
 	display: flex;
 	justify-content:center;
 }
-.main{
+.container{
 	width: 60%;
 	padding: 50px;
 	background-color: gray;
